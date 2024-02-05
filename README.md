@@ -1,16 +1,14 @@
 ## ConigCare Mobile App Backend
 
-A ground-breaking tool called the Text to Sign Language Converter was created to help people who primarily communicate through sign language or have hearing loss close communication gaps. This program provides an easy-to-use interface for turning text messages into GIF animations in Sign Language by utilizing contemporary technologies like Flutter, Dart, and FastAPI.
-
-
 <div align='center'>
-    <img src="" width="300" align="center">
+    <img src="https://github.com/Judy0817/ConigCare-Mobile-App-FrontEnd/assets/119217708/a6562785-0cf4-4070-b5c9-8eb76c424524" width="500" align="center">
 </div>
-
+                      
 ConigCare Frontend : https://github.com/Judy0817/ConigCare-Mobile-App-FrontEnd
 
 ConigCare Backend : https://github.com/Judy0817/ConigCare-Mobile-App-Backend
 
+## Overview
 A ground-breaking tool called the Text to Sign Language Converter was created to help people who primarily communicate through sign language or have hearing loss close communication gaps. This program provides an easy-to-use interface for turning text messages into GIF animations in Sign Language by utilizing contemporary technologies like Flutter, Dart, and FastAPI.
 
 ## Technologies Used
@@ -39,6 +37,13 @@ A ground-breaking tool called the Text to Sign Language Converter was created to
     <li>Firebase Storage - utilized as the database/storage solution to store image assets that correspond to the alphabet's letters, offering the application scalability and dependability.
  </li>
   </ul>
+
+## Interfaces
+<div align='center'>
+    <img src="https://github.com/Judy0817/ConigCare-Mobile-App-FrontEnd/assets/119217708/52275053-27b2-4089-95d4-319259c1e044" width="500" align="center">
+</div>
+
+
 
 ## Development Architecture Diagram
 
